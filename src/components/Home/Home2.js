@@ -21,17 +21,13 @@ function Home2() {
             <p className="home-about-body">
               I am a Managing Consultant with a passion for building products that make daily workflow experiences more delightful and intuitive
               <br />
-              <br />I understand how to code in
-              <i>
-                <b className="purple"> Javascript and Python. </b>
-              </i>
-              <br />
               <br />
               My field of interests are building new B2B or B2C&nbsp;
               <i>
                 <b className="purple">Web Technologies and Products. </b>
               </i>
-              <br /> More specifically leading teams to execute the product roadmap and define user features and experiences.
+              <b /> More specifically leading teams to build products that keep the user at the center of design.
+              <br />
               <br />
               Whenever possible, I also apply my passion for developing products
               with <b className="purple">Node.js</b> and
