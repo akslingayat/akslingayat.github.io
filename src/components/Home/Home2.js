@@ -23,15 +23,15 @@ function Home2() {
               <br />
               <br />I understand how to code in
               <i>
-                <b className="purple"> Javascript and Python </b>
+                <b className="purple"> Javascript and Python. </b>
               </i>
               <br />
               <br />
               My field of interests are building new B2B or B2C&nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b>
+                <b className="purple">Web Technologies and Products. </b>
               </i>
-              <br />
+              <br /> More specifically leading teams to execute the product roadmap and define user features and experiences.
               <br />
               Whenever possible, I also apply my passion for developing products
               with <b className="purple">Node.js</b> and
