@@ -7,6 +7,7 @@ import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.png";
 import Toolstack from "./Toolstack";
 import Cloudstack from "./Cloudstack";
+import Softskillstack from "./Softskillstack";
 
 
 function About() {
@@ -24,7 +25,7 @@ function About() {
             }}
           >
             <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
-              <strong className="purple">Hello</strong>
+              <strong className="purple">About me</strong>
             </h1>
             <Aboutcard />
           </Col>
@@ -37,7 +38,13 @@ function About() {
           </Col>
         </Row>
         <h1 className="project-heading">
-          Professional <strong className="purple">Skillset </strong>
+          <strong className="purple">Soft </strong> Skills
+        </h1>
+
+        <Softskillstack/>
+
+        <h1 className="project-heading">
+          Developer <strong className="purple">Skillset </strong>
         </h1>
 
         <Techstack />
@@ -45,12 +52,15 @@ function About() {
         <h1 className="project-heading">
           <strong className="purple">Tools</strong> I use
         </h1>
+
         <Toolstack />
 
         <h1 className="project-heading">
           <strong className="purple">Clouds</strong> I use
         </h1>
+
         <Cloudstack/>
+
       </Container>
     </Container>
   );
