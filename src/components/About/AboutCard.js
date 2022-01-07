@@ -19,7 +19,7 @@ function AboutCard() {
                 Additionally I manage the CI/CD pipeline identifying dependencies, leading QA and overseeing operational deployments.
                 Since the beginning of my professional career I have been a big proponent of Lean/Agile methodologies. 
                 I have grown my agile and lean experience to the point where I now lead the agile implementation side of the house acting as SCRUM Master and Lean Coach, making sure my programs run efficiently and effectively.</p>
-            <br/> Apart from playing around with new tech and managing several programs I also like to:
+            <br/> Apart from playing around with new tech and managing several programs I also enjoy:
           </p>
           <ul>
             <li className="about-activity">
